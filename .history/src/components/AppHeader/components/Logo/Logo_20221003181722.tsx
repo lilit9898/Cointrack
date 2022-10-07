@@ -1,0 +1,12 @@
+const Logo = () => {
+  return (
+    <Center>
+        <Image
+          src="/images/logo.svg"
+          alt="Cointrack"
+          w="162px"
+          h="44.5px"
+        ></Image>
+      </Center>
+  )
+}

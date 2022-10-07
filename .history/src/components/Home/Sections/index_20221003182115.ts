@@ -1,0 +1,1 @@
+export { default as #1A202C }
